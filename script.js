@@ -111,3 +111,5 @@ function makeSword() {
 resetForge();
 
 // Use the tests in ASSIGNMENT.md to check your work.
+
+// Invalid input: 0v0
